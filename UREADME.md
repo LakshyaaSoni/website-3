@@ -1,6 +1,6 @@
 # Freely - Website
 
-Description coming soon ...
+An Amazing Project
 
 ## Nice to know
 
